@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AM SEMANA 8 - Pena Blas Nir</string>
+    <string name="title_main">¿Quién desea registrarse?</string>
+    <string name="btn_alumno">Alumno</string>
+    <string name="btn_docente">Docente</string>
+    <string name="title_form">FORMULARIO DE ASISTENCIA</string>
+    <string name="subtitle_date">26 - 06 - 2025</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_codigo">Código de estudiante</string>
+    <string name="hint_correo">Correo institucional</string>
+    <string name="hint_dni">DNI</string>
+    <string name="text_info">Información</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="error_ingrese_apellidos">Ingrese apellidos</string>
+    <string name="error_ingrese_nombre">Ingrese nombre</string>
+    <string name="error_ingrese_codigo">Ingrese código</string>
+    <string name="error_correo_invalido">Correo institucional inválido</string>
+    <string name="error_dni_invalido">DNI inválido</string>
+    <string name="toast_corrija_errores">Corrija los errores antes de registrar</string>
+    <string name="hint_asistencia">Asistencia</string>
+    <string name="option_elija">Elija una opción</string>
+    <string name="dialog_title_select_asistencia">Seleccione asistencia</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="error_seleccione_asistencia">Seleccione asistencia</string>
+    <string name="title_confirmation">Registro completado</string>
+    <string name="msg_confirmation">Tu respuesta fue registrada.\nGracias\n¡¡Feliz día de San Pedrito!!</string>
+    <string name="btn_cerrar">Cerrar</string>
+    <string-array name="asistencia_options">
+        <item>Presente</item>
+        <item>Ausente</item>
+    </string-array>
+</resources>

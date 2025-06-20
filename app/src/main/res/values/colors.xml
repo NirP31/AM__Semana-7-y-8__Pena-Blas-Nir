@@ -1,0 +1,17 @@
+<resources>
+    <color name="primary">#0057B7</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#D0E4FF</color>
+    <color name="onPrimaryContainer">#001E3C</color>
+    <color name="secondary">#006494</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="onBackground">#000000</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#000000</color>
+    <color name="overlay">#80000000</color> <!-- semitransparente negra para contraste -->
+    <color name="uns_blue">#0057B7</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+
+
